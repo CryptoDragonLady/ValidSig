@@ -3,7 +3,7 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent">
-	<de.markusfisch.android.binaryeye.widget.ConfinedScrollView
+	<en.pre.android.validsig.widget.ConfinedScrollView
 		android:id="@+id/scroll_view"
 		android:clipToPadding="false"
 		android:layout_width="match_parent"
@@ -102,7 +102,7 @@
 					android:max="32"/>
 			</LinearLayout>
 		</LinearLayout>
-	</de.markusfisch.android.binaryeye.widget.ConfinedScrollView>
+	</en.pre.android.validsig.widget.ConfinedScrollView>
 	<android.support.design.widget.CoordinatorLayout
 		android:id="@+id/inset_layout"
 		android:layout_width="match_parent"

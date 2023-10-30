@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-	namespace 'de.markusfisch.android.binaryeye'
+	namespace 'en.pre.android.validsig'
 	compileSdkVersion sdk_version
 	defaultConfig {
 		minSdkVersion 9
@@ -10,6 +10,7 @@ android {
 
 		versionCode 121
 		versionName '1.61.0'
+		applicationId 'en.pre.android.validsig'
 	}
 
 	signingConfigs {

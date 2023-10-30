@@ -1,4 +1,4 @@
-PACKAGE = de.markusfisch.android.binaryeye
+PACKAGE = en.pre.android.validsig
 
 all: debug install start
 
